@@ -1,7 +1,7 @@
 module.exports = {
   content: ['./index.html'],
   // enable dark mode via class strategy
-  darkMode: 'media',
+  darkMode: 'class',
   theme: {
     container: {
       center: true,
